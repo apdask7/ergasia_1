@@ -1,6 +1,6 @@
 #ΕΡΓΑΣΙΑ 1: AΘΡΟΙΣΜΑ ΔΙΑΣΤΗΜΑΤΩΝ
 while True:
-   	arxh = int(input("Dwste thn arxh tou diasthmatos: "))
+    arxh = int(input("Dwste thn arxh tou diasthmatos: "))
     telos = int(input("Dwste to telos tou diasthmatos: "))
     list=[[arxh,telos]]
     while True:
